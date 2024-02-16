@@ -1,4 +1,4 @@
-# Userful RegEX patterns 
+# Userful RegEX Patterns 
 
 Useful Notepad++ regex patterns
 
