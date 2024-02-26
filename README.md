@@ -1,6 +1,12 @@
-# Userful RegEX Patterns 
+# Useful RegEX Patterns 
 
-Useful Notepad++ regex patterns
+
+<picture>
+  <img alt="Webpage Time" src="https://i0.wp.com/digitalfortress.tech/wp-content/uploads/2018/05/regex_horiz.jpg" width="300" height="100">
+</picture>
+
+
+## Useful Notepad++ regex patterns
 
 1. Find and Replace Windows Special characters
 
