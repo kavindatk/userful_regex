@@ -19,3 +19,7 @@
 3. Select fixed characters from text begining
 
     ^.{0,10} (Select first 10 characters)
+
+4. Select hour part from timestamp (Ex: yyyy-mm-dd hh:mm:ss --> hh:mm:ss)
+
+   \s\d{2}:\d{2}:\d{2}
